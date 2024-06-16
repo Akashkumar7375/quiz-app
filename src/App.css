@@ -1,0 +1,40 @@
+.App {
+  text-align: center;
+}
+
+.fullscreen-prompt {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.8);
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.quiz {
+  margin: 20px;
+}
+
+.timer {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.question-container {
+  margin-bottom: 20px;
+}
+
+.options button {
+  margin: 10px;
+  padding: 10px 20px;
+}
+
+.quiz-end {
+  font-size: 24px;
+  color: red;
+}

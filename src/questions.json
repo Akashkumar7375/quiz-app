@@ -1,0 +1,54 @@
+
+    [
+        {
+            "question": "What is the capital of France?",
+            "options": ["Berlin", "Madrid", "Paris", "Rome"],
+            "answer": 2
+        },
+        {
+            "question": "What is 2 + 2?",
+            "options": ["3", "4", "5", "6"],
+            "answer": 1
+        },
+        {
+            "question": "What is the largest planet in our Solar System?",
+            "options": ["Earth", "Jupiter", "Mars", "Saturn"],
+            "answer": 1
+        },
+        {
+            "question": "Who wrote 'To be, or not to be'?",
+            "options": ["Charles Dickens", "Jane Austen", "William Shakespeare", "Mark Twain"],
+            "answer": 2
+        },
+        {
+            "question": "What is the boiling point of water?",
+            "options": ["90°C", "100°C", "110°C", "120°C"],
+            "answer": 1
+        },
+        {
+            "question": "Which element has the chemical symbol 'O'?",
+            "options": ["Osmium", "Oxygen", "Oganesson", "Oxium"],
+            "answer": 1
+        },
+        {
+            "question": "What is the capital of Japan?",
+            "options": ["Beijing", "Seoul", "Tokyo", "Bangkok"],
+            "answer": 2
+        },
+        {
+            "question": "Which is the longest river in the world?",
+            "options": ["Amazon", "Nile", "Yangtze", "Mississippi"],
+            "answer": 1
+        },
+        {
+            "question": "Who painted the Mona Lisa?",
+            "options": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Claude Monet"],
+            "answer": 2
+        },
+        {
+            "question": "What is the powerhouse of the cell?",
+            "options": ["Nucleus", "Mitochondria", "Ribosome", "Chloroplast"],
+            "answer": 1
+        }
+    ]
+    
